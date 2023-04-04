@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest"
+    "start": "npm start"
   },
   "repository": {
     "type": "git",
